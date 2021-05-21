@@ -1,9 +1,8 @@
 Optimized Gravitational 3-D N body simulation code in C++, along with 2-D and 3-D simulations in Python
 
 To run the C++ simulations, use commands - 
--  ./run_file
--   g++ -fopenmp nbody.cpp -o run_file
-
+-  g++ -fopenmp nbody.cpp -o run_file
+-   ./run_file
 
 
 <h2> <b> Visualizations </b> </h2>
