@@ -6,6 +6,6 @@
 <h3> Visualizations </h3>
   
 <h4> 2-D visualisation using numba and pyglet
-![image](https://user-images.githubusercontent.com/55736716/119119810-3042df80-ba49-11eb-8e82-718c1ff1cccc.png)
+<img src="https://user-images.githubusercontent.com/55736716/119119810-3042df80-ba49-11eb-8e82-718c1ff1cccc.png">
 
   
