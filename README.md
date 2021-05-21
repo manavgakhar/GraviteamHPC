@@ -1,9 +1,6 @@
-# GraviteamHPC
-
-
 <h1> Optimized Gravitational 3-D N body simulation code in C, along with 2-D and 3-D simulations in Python </h2>
 
-<h2> Visualizations </h3>
+<h2> <b> Visualizations </b> </h3>
   
 <h3> 2-D visualisation using numba and pyglet </h3>
   
