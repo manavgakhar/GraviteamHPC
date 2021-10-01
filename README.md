@@ -1,5 +1,8 @@
-# Optimized Gravitational 3-D N body simulation code in C++, along with 2-D and 3-D simulations in Python
+# High Performance Computing Project
+
 Objective - Our goal is to increase the performance of the code used for the calculation of N-Body simulation. Through our experiments, we aim to identify the performance improvements that are shown by adopting parallelization. 
+
+Optimized Gravitational 3-D N body simulation code in C++, along with 2-D and 3-D simulations in Python
 
 To run the C++ simulations, use commands - 
 -  g++ -fopenmp nbody.cpp -o run_file
